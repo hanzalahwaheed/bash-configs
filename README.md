@@ -1,2 +1,2 @@
 # bash-configs
-My bashrc config files.
+My custom bash config files.
